@@ -19,3 +19,5 @@ and run! that's and (it made korean but I plan to make an English version later)
 4."setup_node.exe"를 실행하시면 끝이고 삭제는 delete.exe로 하시면 됩니다
 
 아직 부족한 점이 많지만 나중에 더욱 배워서 만들도록 하겠습니다! 
+
+Full 리퀘도 받긴합니다만 고려해보고 하도록 하겠습니다!
