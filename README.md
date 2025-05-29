@@ -20,4 +20,4 @@ and run! that's and (it made korean but I plan to make an English version later)
 
 아직 부족한 점이 많지만 나중에 더욱 배워서 만들도록 하겠습니다! 
 
-Full 리퀘도 받긴합니다만 고려해보고 하도록 하겠습니다!
+Pull 리퀘도 받긴합니다만 고려해보고 하도록 하겠습니다!
